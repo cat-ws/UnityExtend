@@ -1,0 +1,5 @@
+功能：代码获得、使用打进图集的sprite
+
+使用方法：
+1配置：工具AtlasTool中sprite所在的根目录
+2配置：AtlasManager中 图集预设体所在的目录
